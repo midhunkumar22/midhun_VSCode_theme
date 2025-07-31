@@ -1,4 +1,4 @@
-# my-theme README
+# my-theme README - This repo for personal use
 
 ## Working with Markdown
 
